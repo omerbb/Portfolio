@@ -1,7 +1,6 @@
 # Portfolio
 
 ## 0. Tech Stack Used in This Portfolio
-Based on the files in your portfolio repository, here is a categorized list of the technology stack.
 
 #### **Programming Languages**
 
