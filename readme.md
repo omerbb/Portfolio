@@ -143,7 +143,7 @@ $$
 
 rendered live in 3‑D with Matplotlib.
 
-
+https://github.com/user-attachments/assets/eb3be143-5e83-47ce-8a25-215db2d779c5
 
 ---
 
@@ -167,6 +167,8 @@ I often prototype *from scratch* to understand how GNN layers, edge attributes a
 4. **Fully interactive plot.** Hover‑to‑thicken edges plus tooltip labels were wired via Matplotlib events for intuitive exploration of comorbid clusters.&#x20;
 
 **Outcome.** The embedding surfaced unexpected bridges (e.g. *Somatic Symptom Disorder* sitting between mood and anxiety clusters), sparking discussion with clinical friends and showcasing my ability to blend **NLP, GNNs and UX** for insight‑driven visuals.
+
+https://github.com/user-attachments/assets/c1647917-dbe0-46b5-9e47-bf20b6822376
 
 ---
 
@@ -247,7 +249,7 @@ These sandboxes became my go‑to reference during exams and later helped classm
 3. **Robustness patterns.** We injected retry logic, exponential back‑off and *in‑situ* HTML snapshots so students could debug missing elements live.
 4. **Data product.** The final artefact was a CLI script that delivers a clean, daily‑refreshable price history for any weapon skin—perfect input for time‑series modelling or portfolio simulations.
 
-**Impact.** The tool has since been reused by successive cohorts as the de‑facto template for browser‑automation assignments, demonstrating my ability to convert messy, JavaScript‑heavy sites into structured datasets that data‑scientists can trust.
+
 
 ---
 
@@ -261,12 +263,8 @@ These sandboxes became my go‑to reference during exams and later helped classm
 * **Type‑safe re‑engineering.** After schema enforcement (`pd.StringDtype`, nullable `Float64`), we rebuilt categorical columns to support one‑hot encoding downstream.
 * **Quality gates.** A lightweight **pytest** suite asserted zero nulls in critical columns and < 1 % type‑coercion failures, instilling production‑mindset discipline.
 
-**Outcome.** By the end of the session every participant held a pristine, analysis‑ready dataset and a reproducible notebook—illustrating my knack for teaching pragmatic cleaning techniques that bridge exploratory discovery and deployable pipelines.
 
 ---
-
-**Why this matters for a Data‑Scientist role.** These workshops spotlight my ability to:
-
-* **Empower teams.** Translate advanced tooling (Selenium, pandas, regex, data‑viz) into digestible lessons that upskill peers quickly.
-* **Tame unstructured data.** Extract high‑value signals from noisy HTML and free‑text logs—skills vital when labelled, well‑curated corpora are rare.
-* **Ship usable artefacts fast.** Both mini‑projects were conceived, built and delivered within 24 hours, reflecting rapid prototyping and stakeholder‑oriented thinking.
+### VBT Society Meeting
+![Image](https://github.com/user-attachments/assets/0c41627a-502c-46f0-b67a-b7151de9c377)
+![Image](https://github.com/user-attachments/assets/d2ae4c7a-c7be-4388-a17b-75e4d3b36bfb)
