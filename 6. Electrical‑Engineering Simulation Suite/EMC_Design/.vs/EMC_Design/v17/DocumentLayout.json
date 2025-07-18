@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xxtra\\OneDrive\\Desktop\\kodlar\\lab\\EMC_Design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB7E8D-5DAF-428A-92C1-B96EF4387833}|EMC_Design\\EMC_Design.csproj|c:\\users\\xxtra\\onedrive\\desktop\\kodlar\\lab\\emc_design\\emc_design\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCB7E8D-5DAF-428A-92C1-B96EF4387833}|EMC_Design\\EMC_Design.csproj|solutionrelative:emc_design\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB7E8D-5DAF-428A-92C1-B96EF4387833}|EMC_Design\\EMC_Design.csproj|c:\\users\\xxtra\\onedrive\\desktop\\kodlar\\lab\\emc_design\\emc_design\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DCB7E8D-5DAF-428A-92C1-B96EF4387833}|EMC_Design\\EMC_Design.csproj|solutionrelative:emc_design\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\xxtra\\OneDrive\\Desktop\\kodlar\\lab\\EMC_Design\\EMC_Design\\Form1.cs",
+              "RelativeDocumentMoniker": "EMC_Design\\Form1.cs",
+              "ToolTip": "C:\\Users\\xxtra\\OneDrive\\Desktop\\kodlar\\lab\\EMC_Design\\EMC_Design\\Form1.cs",
+              "RelativeToolTip": "EMC_Design\\Form1.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADwv1gAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:21:36.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xxtra\\OneDrive\\Desktop\\kodlar\\lab\\EMC_Design\\EMC_Design\\Form1.cs",
+              "RelativeDocumentMoniker": "EMC_Design\\Form1.cs",
+              "ToolTip": "C:\\Users\\xxtra\\OneDrive\\Desktop\\kodlar\\lab\\EMC_Design\\EMC_Design\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EMC_Design\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T15:08:38.744Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

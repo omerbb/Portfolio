@@ -1,0 +1,82 @@
+id|name|surname|date|city|harcama
+1|John---Doe||2022-01-15|New York|70
+2|Alice//Smith||2022/02/20|Los Angeles|85.0000
+3|Alice//Smith@||01/03/2022|Chicago|120
+4|Bob Doe||2022-04-10||80.0000
+5|Alice Doe||2022-05-25|Miami|100
+2|Alice**Smith-||2022/02/20|Los Angeles|65.0000
+6|Charlie265465Brown||2022-06-30|San Francisco|110
+7|Lucy3928490Martin||2022-07-15|Boston|75.0000
+8|Lucy3928490Martin55||01/03/2022|Chicago|90
+9|Michael3928490Martin||2022-08-20|Houston|60
+10|David--Jones||2022-09-05|Phoenix|120.0000
+11|Susan||2022-10-12|Denver|80
+12|Robert''Williams||2022-11-25|Seattle|95.0000
+13|Emily@'Martin||2022-12-30|Portland|110
+14|Mark//Davis||2023-01-05|San Diego|75.0000
+15|Jessica--Martin||2023-02-15|Austin|85
+16|John^^Johnson||2023-03-20|Dallas|100.0000
+17|Sophia-*Johnson||2023-04-25|San Antonio|70
+18|James-/Johnson-*||2023-05-30|Chicago|80.0000
+19|EmmaJohnson*/-||2023-06-10|Los Angeles|90
+20|Liam))Smith||2023-07-15|Miami|65.0000
+5|Alice/*-Doe||2022-05-25|Miami|100
+6|Charlie-*/-+Brown||2022-06-30|San Francisco|110
+21|Olivia++Johnson||2023-08-10|New York|75.0000
+22|Noah-*-*Davis||2023-09-20|Los Angeles|95
+23|Ava-*-/Johnson||2023-10-25|Chicago|120.0000
+24|Ethan---Brown||2023-11-30|Miami|80
+25|-*-*Isabella*-Johnson||2023-12-05|San Francisco|85.0000
+26|William Mayson||2024-01-15|Boston|110
+27|John Johnson||01/03/2022|Chicago|90
+28|Sophia Johnson||2023-04-25|San Antonio|70.0000
+29|Jackson ////Johnson||2023-05-30|Chicago|80
+30|Olivia-/*Johnson||2023-06-10|Los Angeles|90.0000
+31|Lucas||2023-07-15|Miami|65
+32|Avery||2023-08-20|Houston|75.0000
+33|-*-Johnson/-Johnson||01/03/2022|Chicago|120
+34|Sophia||2023-04-25|San Antonio|70.0000
+35|Charlotte||2023-05-30|Chicago|80
+36|Mason||2023-06-10|Los Angeles|90.0000
+37|Amelia||2023-07-15|Miami|65
+38|Harper||2023-08-20|Houston|75.0000
+39|Evelyn||2023-09-25|Phoenix|120
+40|Liam||2023-10-30|Denver|80.0000
+15|Jessica--Martin||2023-02-15|Austin|85
+16|John^^Johnson||2023-03-20|Dallas|100.0000
+17|Sophia-*Johnson||2023-04-25|San Antonio|70
+18|James-/Johnson-*||2023-05-30|Chicago|80.0000
+19|EmmaJohnson*/-||2023-06-10|Los Angeles|90
+20|Liam))Smith||2023-07-15|Miami|65.0000
+5|Alice/*-Doe||2022-05-25|Miami|100
+6|Charlie-*/-+Brown||2022-06-30|San Francisco|110
+21|Olivia++Johnson||2023-08-10|New York|75.0000
+22|Noah-*-*Davis||2023-09-20|Los Angeles|95
+23|Ava-*-/Johnson||2023-10-25|Chicago|120.0000
+24|Ethan---Brown||2023-11-30|Miami|80
+25|-*-*Isabella*-Johnson||2023-12-05|San Francisco|85.0000
+26|William Mayson||2024-01-15|Boston|110
+27|John Johnson||01/03/2022|Chicago|90
+28|Sophia Johnson||2023-04-25|San Antonio|70.0000
+29|Jackson ////Johnson||2023-05-30|Chicago|80
+30|Olivia-/*Johnson||2023-06-10|Los Angeles|90.0000
+31|Lucas||2023-07-15|Miami|65
+32|Avery||2023-08-20|Houston|75.0000
+33|-*-Johnson/-Johnson||01/03/2022|Chicago|120
+34|Sophia||2023-04-25|San Antonio|70.0000
+35|Charlotte||2023-05-30|Chicago|80
+36|Mason||2023-06-10|Los Angeles|90.0000
+37|Amelia||2023-07-15|Miami|65
+38|Harper||2023-08-20|Houston|75.0000
+39|Evelyn||2023-09-25|Phoenix|120
+40|Liam||2023-10-30|Denver|80.0000
+41|Ava||2023-11-05|Seattle|95
+42|Olivia||2023-12-15|Portland|110.0000
+43|Elijah||2024-01-20|San Diego|75
+44|Mia||2024-02-25|Austin|85.0000
+45|///Johnson**Joh----||01/03/2022|Chicago|90
+46|Liam Mayson||2023-04-10|Los Angeles|65.0000
+47|Sophia-Mayson||2023-05-25|Miami|100
+48|Jackson_Mayson||2023-06-30|San Francisco|110.0000
+49|Emma -Johnson||2023-07-15|Boston|75
+50|Aiden-Mayson@||2023-08-20|Houston|80.0000
