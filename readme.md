@@ -1,6 +1,28 @@
 # Portfolio
 
-## 0. Tech Stack Used in This Portfolio
+## 1.1 Introduction
+
+Welcome to my portfolio. This repository serves as a curated collection of my work, demonstrating a journey from foundational academic research to applied professional projects and deep-dive, from-scratch algorithm implementations. My goal is to showcase not just the final products, but also the process of bridging theory and practice across data science, machine learning, and software engineering.
+
+The projects here span a wide range of domains—from robotics and LLM integration to bioinformatics and quantitative analysis—all unified by a first-principles approach to problem-solving.
+
+### How This README is Organized
+
+To make navigation intuitive, this document is structured thematically. It begins with a comprehensive **Tech Stack** summary, followed by sections that group projects by their context:
+
+*   **Section 2: Academic Projects:** Highlights my published, grant-funded research and formal internship work.
+*   **Section 3: Professional Projects:** Showcases my contributions in a commercial setting, focusing on tool development and production-level workflows.
+*   **Sections 4-6: From-Scratch Implementations & Explorations:** Details my personal projects where I build algorithms and simulations from the ground up to solidify my understanding of core concepts in control systems, GNNs, and signal processing.
+*   **Section 7: Community Workshops:** Features materials from data-science workshops I've led, demonstrating my ability to communicate complex topics clearly.
+
+### How This Repository is Organized
+
+The repository's directory structure directly mirrors the sections in this README. For every project discussed, you can find the corresponding source code, notebooks, and assets in the numbered folder of the same name. For instance, the code for the projects detailed in *Section 5: Graph Neural Network (GNN) Explorations* is located in the `5. Graph Neural Network (GNN) Explorations/` directory.
+
+Thank you for visiting. I invite you to explore the projects that interest you most.
+
+## 1.2 Tech Stack Used in This Portfolio
+
 
 #### **Programming Languages**
 
@@ -59,27 +81,7 @@
 *   **Utilities:**
     *   **Colorama & Tabulate:** For creating formatted and colored command-line output.
 
-
-## 1. Introduction
-
-Welcome to my portfolio. This repository serves as a curated collection of my work, demonstrating a journey from foundational academic research to applied professional projects and deep-dive, from-scratch algorithm implementations. My goal is to showcase not just the final products, but also the process of bridging theory and practice across data science, machine learning, and software engineering.
-
-The projects here span a wide range of domains—from robotics and LLM integration to bioinformatics and quantitative analysis—all unified by a first-principles approach to problem-solving.
-
-### How This README is Organized
-
-To make navigation intuitive, this document is structured thematically. It begins with a comprehensive **Tech Stack** summary, followed by sections that group projects by their context:
-
-*   **Section 2: Academic Projects:** Highlights my published, grant-funded research and formal internship work.
-*   **Section 3: Professional Projects:** Showcases my contributions in a commercial setting, focusing on tool development and production-level workflows.
-*   **Sections 4-6: From-Scratch Implementations & Explorations:** Details my personal projects where I build algorithms and simulations from the ground up to solidify my understanding of core concepts in control systems, GNNs, and signal processing.
-*   **Section 7: Community Workshops:** Features materials from data-science workshops I've led, demonstrating my ability to communicate complex topics clearly.
-
-### How This Repository is Organized
-
-The repository's directory structure directly mirrors the sections in this README. For every project discussed, you can find the corresponding source code, notebooks, and assets in the numbered folder of the same name. For instance, the code for the projects detailed in *Section 5: Graph Neural Network (GNN) Explorations* is located in the `5. Graph Neural Network (GNN) Explorations/` directory.
-
-Thank you for visiting. I invite you to explore the projects that interest you most.
+---
 
 ## 2. Academic Projects
 
