@@ -87,6 +87,9 @@ Thank you for visiting. I invite you to explore the projects that interest you m
 
 
 ### 2.1 Bridging Genetic Algorithms and Gradient‑Based Learning in the *Chrome Dinosaur* Game
+
+![Image](https://github.com/user-attachments/assets/e5706a3d-950e-4d7a-9cad-9200e63925ac)
+
 **Context.** This IEEE‑published( DOI: [10.1109/ICHORA65333.2025.11017263](https://ieeexplore.ieee.org/document/11017263) ) study (TÜBİTAK‑2209/A funded) explores how to train an agent when no ground‑truth dataset exists: evolve a controller **with a Genetic Algorithm (GA)** to *create* data, then fine‑tune a Multi‑Layer Perceptron (MLP) **with gradient descent** on that data.
 
 **Methodology & findings.**
