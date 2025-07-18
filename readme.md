@@ -127,6 +127,9 @@ These two projects showcase my ability to (a) design full analytics pipelines un
 ## 3. Selected Professional Projects
 
 ### 3.1 LLM‑Driven Robot Control Toolkit
+
+<img width="1066" height="403" alt="Image" src="https://github.com/user-attachments/assets/783ffe07-f3b1-4fd9-a2e6-12b29878b25b" />
+
 **Context.** During my internship at **Acrome Robotics** I explored how Large Language Models (LLMs) can translate plain‑English commands into low‑level robot actions on Acrome’s Smart Motion Devices (SMD). The publicly documented PoC shows an LLM that parses intent, chooses the right SMD API call and sequences complex tasks such as pick‑and‑place or path following ([Acrome Robotics][1]).
 
 **Methodology.**
