@@ -19,6 +19,9 @@
 
 **Contribution.** The project shows that GA‑generated trajectories can bootstrap data‑hungry gradient learners, marrying evolutionary exploration with efficient convergence . This hybrid recipe promises faster training and lower compute budgets for other simulation‑heavy tasks.
 
+https://github.com/user-attachments/assets/cf3e6973-ff1f-479d-a66d-54256c06b95a
+
+https://github.com/user-attachments/assets/4aff33a4-a6db-412e-9197-d70a915a0589
 
 ---
 ### 2.2 Convoy Detection from Ground‑Radar Streams
