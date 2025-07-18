@@ -139,7 +139,7 @@ These two projects showcase my ability to (a) design full analytics pipelines un
 3. **Context retrieval.** Runtime sensor data and prior dialogue are injected into the prompt so the model can re‑plan on failures or clarify ambiguous goals.
 4. **Safety envelope.** A rule‑based guard blocks prompts that move the robot outside its workspace or velocity limits.
 
-**Impact.** Enabled staff to prototype new demos in minutes; the approach is now referenced in Acrome’s developer blog and informs their next‑gen SMD SDK roadmap.
+For more info check out the blogposts I wrote about this project.[[1]](https://acrome.net/post/controlling-robots-with-llms-large-language-models),[[2]](https://acrome.net/post/controlling-robots-built-with-smd-using-flask-api)
 
 ---
 
@@ -153,6 +153,7 @@ These two projects showcase my ability to (a) design full analytics pipelines un
 3. **Dockerisation** so anyone could `docker compose up`, add their API key and start coding .
 
 **Outcome.** A one‑day hack that turned into a routinely used internal tool, boosting developer velocity and inspiring the public article on robot‑LLM synergy referenced above.
+
 ---
 
 ### 3.3 Polyglot Prediction Microservice (Python Flask + Java Client)
