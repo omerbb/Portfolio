@@ -130,7 +130,7 @@ These two projects showcase my ability to (a) design full analytics pipelines un
 
 <img width="1066" height="403" alt="Image" src="https://github.com/user-attachments/assets/783ffe07-f3b1-4fd9-a2e6-12b29878b25b" />
 
-**Context.** During my internship at **Acrome Robotics** I explored how Large Language Models (LLMs) can translate plain‑English commands into low‑level robot actions on Acrome’s Smart Motion Devices (SMD). The publicly documented PoC shows an LLM that parses intent, chooses the right SMD API call and sequences complex tasks such as pick‑and‑place or path following ([Acrome Robotics][1]).
+**Context.** During my internship at **Acrome Robotics** I explored how Large Language Models (LLMs) can translate plain‑English commands into low‑level robot actions on Acrome’s Smart Motion Devices (SMD). The publicly documented PoC shows an LLM that parses intent, chooses the right SMD API call and sequences complex tasks such as pick‑and‑place or path following Acrome Robotics.
 
 **Methodology.**
 
@@ -139,7 +139,7 @@ These two projects showcase my ability to (a) design full analytics pipelines un
 3. **Context retrieval.** Runtime sensor data and prior dialogue are injected into the prompt so the model can re‑plan on failures or clarify ambiguous goals.
 4. **Safety envelope.** A rule‑based guard blocks prompts that move the robot outside its workspace or velocity limits.
 
-For more info check out the blogposts I wrote about this project.[[1]](https://acrome.net/post/controlling-robots-with-llms-large-language-models),[[2]](https://acrome.net/post/controlling-robots-built-with-smd-using-flask-api)
+For more info check out the blogposts I wrote about this project.[1](https://acrome.net/post/controlling-robots-with-llms-large-language-models),[2](https://acrome.net/post/controlling-robots-built-with-smd-using-flask-api)
 
 ---
 
@@ -186,7 +186,7 @@ For more info check out the blogposts I wrote about this project.[[1]](https://a
 
 These projects demonstrate my ability to (a) integrate modern ML/LLM techniques with real hardware and heterogeneous stacks, (b) productionise models through robust APIs, and (c) build developer‑friendly tools that shrink idea‑to‑prototype time—core strengths for a data‑science role in 2025.
 
-[1]: https://acrome.net/post/controlling-robots-with-llms-large-language-models?utm_source=chatgpt.com "Controlling Robots with LLMs (Large Language Models)"
+
 
 
 ## 4. Algorithm Implementations *from Scratch*
