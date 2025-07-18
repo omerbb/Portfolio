@@ -197,7 +197,7 @@ I regularly “re‑derive and re‑code” the algorithms I use so that the mat
 Below are three representative notebooks—each built **only with NumPy/Matplotlib**, no ML libraries—to deepen my intuition for optimisation, control and function approximation.
 
 ---
-\### 4.1 Adaptive PID‑NN Controller (from‑scratch implementation)
+### 4.1 Adaptive PID‑NN Controller (from‑scratch implementation)
 
 **Context.** To see how a neural network can *self‑tune* classical control, I wrote a minimal **PID‑NN hybrid** in pure NumPy/Matplotlib—no control libraries, just maths.
 
