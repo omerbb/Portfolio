@@ -139,7 +139,9 @@ These two projects showcase my ability to (a) design full analytics pipelines un
 3. **Context retrieval.** Runtime sensor data and prior dialogue are injected into the prompt so the model can re‑plan on failures or clarify ambiguous goals.
 4. **Safety envelope.** A rule‑based guard blocks prompts that move the robot outside its workspace or velocity limits.
 
-For more info check out the blogposts I wrote about this project.[1](https://acrome.net/post/controlling-robots-with-llms-large-language-models),[2](https://acrome.net/post/controlling-robots-built-with-smd-using-flask-api)
+For more info check out the blogposts I wrote about this project.
+1. [AI Robotics Case - Controlling Robots with LLMs (Large Language Models)](https://acrome.net/post/controlling-robots-with-llms-large-language-models)
+2. [Controlling Robots Built with SMD Using Flask API](https://acrome.net/post/controlling-robots-built-with-smd-using-flask-api)
 
 ---
 
