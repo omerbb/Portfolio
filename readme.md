@@ -1,7 +1,86 @@
 # Portfolio
 
+## 0. Tech Stack Used in This Portfolio
+Based on the files in your portfolio repository, here is a categorized list of the technology stack.
+
+#### **Programming Languages**
+
+*   **Python:** The primary language used across a wide range of projects, from machine learning and data science to web applications and hardware control.
+*   **C#:** Used for desktop application development with the .NET framework, specifically for the Electrical-Engineering Simulation Suite.
+*   **Java:** Mentioned for a client application consuming a Python REST API, demonstrating cross-language integration.
+
+#### **Data Science, Machine Learning & AI**
+
+*   **Core Libraries:**
+    *   **NumPy:** For numerical operations and scientific computing.
+    *   **Pandas:** For data manipulation and analysis (implied in data cleaning workshop).
+    *   **Matplotlib:** For creating static, animated, and interactive visualizations.
+    *   **Scikit-learn:** Utilized for machine learning tasks, including TF-IDF vectorization and cosine similarity.
+*   **Deep Learning & GNNs:**
+    *   **PyTorch:** The main deep learning framework used.
+    *   **PyTorch Geometric:** For implementing Graph Neural Networks (GCNConv, GATConv).
+*   **Natural Language Processing (LLP):**
+    *   **Google Generative AI (Gemini):** Used for the LLM-driven chatbot and code generator.
+*   **Bio-Signal Processing:**
+    *   **MNE:** For exploring, visualizing, and analyzing EEG data.
+*   **Other Specialized Libraries:**
+    *   **NetworkX:** For the creation, manipulation, and study of complex networks.
+
+#### **Web Development & APIs**
+
+*   **Frameworks:**
+    *   **Streamlit:** For building and deploying the interactive web-based UI for the Acrome SMD Chatbot.
+    *   **Flask:** Mentioned for creating a REST API to serve a machine learning model.
+*   **Web Scraping:**
+    *   **BeautifulSoup:** Mentioned for parsing HTML and XML documents.
+    *   **Requests:** For making HTTP requests.
+
+#### **DevOps, CI/CD & Tooling**
+
+*   **Containerization:**
+    *   **Docker & Docker Compose:** Used to containerize the Python chatbot application for easy deployment and scalability.
+*   **Continuous Integration/Continuous Deployment (CI/CD):**
+    *   **GitHub Actions:** For automating Python package testing, linting, and publishing to PyPI.
+*   **Code Quality & Testing:**
+    *   **Flake8:** For linting and enforcing style consistency in Python code.
+    *   **Pytest & Unittest:** For writing and running automated tests.
+*   **Package Management & Publishing:**
+    *   **Pip:** The standard package manager for Python.
+    *   **Setuptools:** For packaging Python projects.
+    *   **PyPI & TestPyPI:** Platforms for distributing Python packages.
+
+#### **Desktop & Hardware**
+
+*   **C#/.NET:**
+    *   **Windows Forms:** For building the GUI of the Electrical-Engineering Simulation Suite.
+    *   **Visual Studio:** As the primary IDE for C# development.
+*   **Hardware Interfacing (Python):**
+    *   **PySerial:** For serial communication with hardware devices like the Acrome Smart Motor Drivers.
+    *   **stm32loader:** For interacting with STM32 microcontrollers.
+*   **Utilities:**
+    *   **Colorama & Tabulate:** For creating formatted and colored command-line output.
+
+
 ## 1. Introduction
 
+Welcome to my portfolio. This repository serves as a curated collection of my work, demonstrating a journey from foundational academic research to applied professional projects and deep-dive, from-scratch algorithm implementations. My goal is to showcase not just the final products, but also the process of bridging theory and practice across data science, machine learning, and software engineering.
+
+The projects here span a wide range of domains—from robotics and LLM integration to bioinformatics and quantitative analysis—all unified by a first-principles approach to problem-solving.
+
+### How This README is Organized
+
+To make navigation intuitive, this document is structured thematically. It begins with a comprehensive **Tech Stack** summary, followed by sections that group projects by their context:
+
+*   **Section 2: Academic Projects:** Highlights my published, grant-funded research and formal internship work.
+*   **Section 3: Professional Projects:** Showcases my contributions in a commercial setting, focusing on tool development and production-level workflows.
+*   **Sections 4-6: From-Scratch Implementations & Explorations:** Details my personal projects where I build algorithms and simulations from the ground up to solidify my understanding of core concepts in control systems, GNNs, and signal processing.
+*   **Section 7: Community Workshops:** Features materials from data-science workshops I've led, demonstrating my ability to communicate complex topics clearly.
+
+### How This Repository is Organized
+
+The repository's directory structure directly mirrors the sections in this README. For every project discussed, you can find the corresponding source code, notebooks, and assets in the numbered folder of the same name. For instance, the code for the projects detailed in *Section 5: Graph Neural Network (GNN) Explorations* is located in the `5. Graph Neural Network (GNN) Explorations/` directory.
+
+Thank you for visiting. I invite you to explore the projects that interest you most.
 
 ## 2. Academic Projects
 
