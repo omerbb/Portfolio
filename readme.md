@@ -250,10 +250,10 @@ I often prototype *from scratch* to understand how GNN layers, edge attributes a
 
 **Pipeline.**
 
-1. **Text‑to‑Graph.** TF‑IDF on every disorder’s diagnostic criteria → cosine‑similarity edges above 0.20. The raw string vectors double as initial node features.&#x20;
-2. **Model stack.** Two **GCN** layers capture local homophily, a final **GAT** layer re‑weights edges with attention to highlight rare but informative links.&#x20;
-3. **Self‑supervised training.** The network reconstructs its own TF‑IDF features (MSE loss) so no labels are needed, converging in < 500 epochs.&#x20;
-4. **Fully interactive plot.** Hover‑to‑thicken edges plus tooltip labels were wired via Matplotlib events for intuitive exploration of comorbid clusters.&#x20;
+1. **Text‑to‑Graph.** TF‑IDF on every disorder’s diagnostic criteria → cosine‑similarity edges above 0.20. The raw string vectors double as initial node features. ;
+2. **Model stack.** Two **GCN** layers capture local homophily, a final **GAT** layer re‑weights edges with attention to highlight rare but informative links. ;
+3. **Self‑supervised training.** The network reconstructs its own TF‑IDF features (MSE loss) so no labels are needed, converging in < 500 epochs. ;
+4. **Fully interactive plot.** Hover‑to‑thicken edges plus tooltip labels were wired via Matplotlib events for intuitive exploration of comorbid clusters. ;
 
 **Outcome.** The embedding surfaced unexpected bridges (e.g. *Somatic Symptom Disorder* sitting between mood and anxiety clusters), sparking discussion with clinical friends and showcasing my ability to blend **NLP, GNNs and UX** for insight‑driven visuals.
 
@@ -266,8 +266,8 @@ https://github.com/user-attachments/assets/c1647917-dbe0-46b5-9e47-bf20b6822376
 
 **Highlights.**
 
-* **Distance matrix analysis** reveals which digits confuse a nearest‑neighbour classifier (e.g. *3* vs *8*).&#x20;
-* **Graph abstraction** condenses the 60 000‑image dataset into a ten‑node network whose edge weights encode visual closeness. Edge creation logic is compact and transparent.&#x20;
+* **Distance matrix analysis** reveals which digits confuse a nearest‑neighbour classifier (e.g. *3* vs *8*). ;
+* **Graph abstraction** condenses the 60 000‑image dataset into a ten‑node network whose edge weights encode visual closeness. Edge creation logic is compact and transparent. ;
 * **Interactive layout** uses *spring* forces so closely related digits literally pull together on screen, letting viewers *see* manifold relationships at a glance.
 
 **Outcome.** Served as a control‑experiment verifying that my edge heuristics and layout tricks generalise beyond text data.
